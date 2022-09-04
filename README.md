@@ -1,4 +1,3 @@
-# About-me
 ## :sunglasses: I'm Sina
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning everything 🤣

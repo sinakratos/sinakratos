@@ -35,4 +35,4 @@
 | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> | # | # | #
 |<img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=windows&logoColor=F0DB4F">| # | # |
 | <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | # | # | # |
-| <img src="https://img.shields.io/badge/-Deno.js-0D1117?style=flat-square&logo=Deno&logoColor=F0DB4F"> | # | # | # |  <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c&logoColor=F0DB4F"> | # | # | # |
+| <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c&logoColor=F0DB4F"> | # | # | # |

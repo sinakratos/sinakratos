@@ -23,7 +23,7 @@
     <br>
     <a href="#"><img alt="sinakratos's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=sinakratos&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="sinakratos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sinakratos&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
+<!--     <a href="#"><img alt="sinakratos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sinakratos&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a> -->
 </div>
 
 <h2>⚡ Skills</h2>

@@ -34,6 +34,6 @@
 | <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-windows-0D1117?style=flat-square&logo=windows&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-postgresql-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-nestjs-0D1117?style=flat-square&logo=nestjs&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-express-0D1117?style=flat-square&logo=express&logoColor=F0DB4F">  |
-| # | # | # | # |
+| <img src="https://img.shields.io/badge/-TelegramBot-0D1117?style=flat-square&logo=telegram&logoColor=F0DB4F"> | # | # | # |
 | # | # | # | # |
 | # | # | # | # |

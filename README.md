@@ -4,12 +4,14 @@
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I'm a Gamer
 
+  
 <h2>📃 Contact</h2>
 
 <div>   
     <a href="mailto:sinakhoshzaban2@gmail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Sinakratos-ProtonMail"></a>
     <a href="https://www.Instagram.com/sinakratos80/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Sinakratos-Instagram"></a>
     <a href="https://discord.com/users/324811693756645376" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=F0DB4F" alt="Sinakratos-Discord"></a>
+    <a href="https://t.me/sinakratos" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Sinakratos-Telegram"></a>
     <br><br>
     <img alt="Sinakratos-Discord" src="https://discord.c99.nl/widget/theme-3/324811693756645376.png" />
 </div>
@@ -24,14 +26,14 @@
     <a href="#"><img alt="sinakratos's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=sinakratos&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
 </div>
 
-<h2>⚡ Skills</h2>
 
-| # | # | # | # |
-| :------------ | :--------------- | :----- | :----- |
-| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-windows-0D1117?style=flat-square&logo=windows&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-postgresql-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-nestjs-0D1117?style=flat-square&logo=nestjs&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-express-0D1117?style=flat-square&logo=express&logoColor=F0DB4F">  |
-| <img src="https://img.shields.io/badge/-TelegramBot-0D1117?style=flat-square&logo=telegram&logoColor=F0DB4F"> | # | # | # |
-| # | # | # | # |
-| # | # | # | # |
+## ⚡ Skills
+
+| | | | |
+|---|---|---|---|
+| ![](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F) | ![](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F) | ![](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=F0DB4F) |
+| ![](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F) | ![](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F) | ![](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F) |
+| ![](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=F0DB4F) | ![](https://img.shields.io/badge/SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows&logoColor=F0DB4F) |
+| ![](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F) | ![](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F) | ![](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=F0DB4F) |
+| ![](https://img.shields.io/badge/TelegramBot-0D1117?style=flat-square&logo=telegram&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Zod-0D1117?style=flat-square&logoColor=F0DB4F) | ![](https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=F0DB4F) | # |
+
